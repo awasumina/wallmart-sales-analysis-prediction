@@ -46,3 +46,4 @@ The XGBoost model exhibited the highest accuracy in predicting weekly sales, ind
 ## Conclusions
 
 This analysis highlights the significant influence of environmental and economic factors on weekly sales performance in retail. The models' performance indicates that machine learning techniques, especially ensemble methods like XGBoost, can effectively predict sales, allowing retailers to make informed decisions based on predictive insights.
+    
