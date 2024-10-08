@@ -3,7 +3,6 @@
 ## Overview
 
 This project aims to analyze and predict  sales for a wallmart store using various machine learning techniques. The analysis focuses on understanding the key factors affecting sales and evaluating different regression models for prediction accuracy.
-week (target variable).
 
 ## Methodology
 
